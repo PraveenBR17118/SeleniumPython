@@ -1,0 +1,20 @@
+2020-01-22 15:37:21,138: DEBUG: This is a debug message
+2020-01-22 15:37:21,138: INFO: This is a info message
+2020-01-22 15:37:21,138: WARNING: This is a warning message
+2020-01-22 15:37:21,138: ERROR: This is a error message
+2020-01-22 15:37:21,138: CRITICAL: This is a critical message
+01/22/2020 03:40:1579687806 PM: DEBUG: This is a debug message
+01/22/2020 03:40:1579687806 PM: INFO: This is a info message
+01/22/2020 03:40:1579687806 PM: WARNING: This is a warning message
+01/22/2020 03:40:1579687806 PM: ERROR: This is a error message
+01/22/2020 03:40:1579687806 PM: CRITICAL: This is a critical message
+ 22/01/2020 03:40:1579687859 PM: DEBUG: This is a debug message
+22/01/2020 03:40:1579687859 PM: INFO: This is a info message
+22/01/2020 03:40:1579687859 PM: WARNING: This is a warning message
+22/01/2020 03:40:1579687859 PM: ERROR: This is a error message
+22/01/2020 03:40:1579687859 PM: CRITICAL: This is a critical message
+22/01/2020 03:45:1579688140 PM: DEBUG: This is a debug message
+22/01/2020 03:45:1579688140 PM: INFO: This is a info message
+22/01/2020 03:45:1579688140 PM: WARNING: This is a warning message
+22/01/2020 03:45:1579688140 PM: ERROR: This is a error message
+22/01/2020 03:45:1579688140 PM: CRITICAL: This is a critical message
